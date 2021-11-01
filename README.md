@@ -6,7 +6,7 @@
 - 🎓 Studied Computer Science (MSc) & Physics (PhD).
 - 🔭 Worked at NASA to help rescue the Kepler Space Telescope.
 - 🐍 Contributed to several core Python packages for astrophysics.
-- 🚲 Love bicycles.
+- 🚲 Loves bicycles.
 - 😄 Pronouns: he/him.
 - 💬 Ask me about: vegan waffle recipes.
 
