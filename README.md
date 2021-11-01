@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Geert 👋
 
-<!--
-**barentsen/barentsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a software engineer with a passion for data.
 
-Here are some ideas to get you started:
+- 🇧🇪 Made in Belgium.
+- 🎓 Studied Computer Science (MSc) & Physics (PhD).
+- 🔭 Worked at NASA to help rescue the Kepler Space Telescope.
+- 🐍 Contributed to several core Python packages for astrophysics.
+- 🚲 Love bicycles.
+- 😄 Pronouns: he/him.
+- 💬 Ask me about: vegan waffle recipes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="geert.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="GeertHub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Geert Barentsen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Geert Barentsen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://geert.io
+[twitter]: https://twitter.com/GeertHub
+[instagram]: https://www.instagram.com/geerthub/
+[linkedin]: https://www.linkedin.com/in/barentsen/
