@@ -4,8 +4,9 @@
 
 - 🇧🇪 Made in Belgium.
 - 🎓 Studied Computer Science (MSc) & Physics (PhD).
-- 🔭 Worked at NASA to help rescue the Kepler Space Telescope.
-- 🐍 Contributed to several core Python packages for astrophysics.
+- 🔭 Led the Kepler Space Telescope science support team at NASA.
+- 🪐 Created the popular [lightkurve](https://github.com/lightkurve/lightkurve) time series analysis package.
+- 🐍 Contributed to numerous scientific Python packages.
 - 🚲 Loves bicycles.
 - 😄 Pronouns: he/him.
 - 💬 Ask me about: vegan waffle recipes.
