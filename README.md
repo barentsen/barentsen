@@ -1,14 +1,12 @@
 ### Hi there, I'm Geert 👋
 
-### I'm a software engineer with a passion for data.
-
-- 🇧🇪 Made in Belgium.
+- 👨‍💻 Software Engineer with 15 yrs experience in Python/JS/C++/SQL/Spark/ML.
 - 🎓 Studied Computer Science (MSc) & Physics (PhD).
-- 🔭 Led the Kepler Space Telescope science support team at NASA.
+- 🚀 Worked at NASA to lead the Kepler Space Telescope science support team.
 - 🪐 Created the popular [lightkurve](https://github.com/lightkurve/lightkurve) time series analysis package.
 - 🐍 Contributed to numerous scientific Python packages.
+- 🇧🇪 Made in Belgium.
 - 🚲 Loves bicycles.
-- 😄 Pronouns: he/him.
 - 💬 Ask me about: vegan waffle recipes.
 
 ### Connect with me
